@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lthero-big&show_icons=true&theme=ambient_gradient)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lthero-big)](https://github.com/lthero-big/github-readme-stats)
+
 ## 🚀 About Me
 I'm a [Your Profession/Role] with a passion for [Your Interests/Hobbies]. I love to [Briefly describe what you love to do].
 
