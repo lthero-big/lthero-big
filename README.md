@@ -18,6 +18,10 @@
 <a href="https://instagram.com/lthero_8266" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://lthero-big.github.io" target="_blank">
+<img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white alt=blogger style="margin-bottom: 5px;" />
+</a>  
+
 </div>  
   
 
@@ -90,20 +94,6 @@
 <br/>  
 
 
-
-
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
