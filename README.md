@@ -1,6 +1,6 @@
 # Hello, I'm lthero 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lthero-big&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lthero-big&show_icons=true&theme=ambient_gradient)
 
 ## 🚀 About Me
 I'm a [Your Profession/Role] with a passion for [Your Interests/Hobbies]. I love to [Briefly describe what you love to do].
