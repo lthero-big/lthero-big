@@ -20,9 +20,9 @@
 <a href="https://lthero-big.github.io" target="_blank">
 <img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white alt=blogger style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:lthero@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>  
+<a href="mailto:ltherowlh@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 
 
 </div>  
