@@ -1,10 +1,5 @@
 # <div align="center"> ***I'm Lthero***  🌹 </div>
 
-
-- 🌱 Bachelor's degree; Master's Course, 2st Year  
-
-- 🔭 I’m currently studying in NingBo  
-
 <br/>  
 
 
